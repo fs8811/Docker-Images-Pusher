@@ -3,4 +3,4 @@ playedu-redis-1
 playedu-mysql-1
 playedu-minio-1
 playedu-playedu-1
-#
+#其它
