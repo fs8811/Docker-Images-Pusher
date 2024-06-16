@@ -1,6 +1,6 @@
 #PlayEdu开源培训系统
-playedu/light:1.7
-playedu-mysql
-playedu-redis
+playedu-mysql:latest
+playedu-redis:latest
 bitnami/minio:latest
+registry.cn-hangzhou.aliyuncs.com/playedu/light:1.7
 #其它
