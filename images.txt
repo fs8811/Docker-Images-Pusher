@@ -1,3 +1,4 @@
+#PlayEdu开源培训系统
 playedu-redis-1
 playedu-mysql-1
 playedu-minio-1
