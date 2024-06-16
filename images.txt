@@ -1,1 +1,5 @@
 nginx
+light
+mysql
+redis
+minio
