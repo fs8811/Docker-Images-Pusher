@@ -1,5 +1,6 @@
 nginx
 light
-mysql
-redis
+PlayEdu v1.6
+mysql 5.7.42
+redis 7.02
 minio
