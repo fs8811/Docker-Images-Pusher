@@ -4,6 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-playedu-mysql
-playedu-redis
-bitnami/minio:latest
+#playedu
+playedu/light:1.7
+playedu-mysql-1
+playedu-redis-1
+playedu-minio-1
