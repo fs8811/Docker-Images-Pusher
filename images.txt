@@ -9,3 +9,4 @@ playedu/light:1.7
 playedu-mysql-1
 playedu-redis-1
 playedu-minio-1
+registry.cn-hangzhou.aliyuncs.com/playedu/light:1.7
