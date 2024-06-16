@@ -1,6 +1,4 @@
-nginx
-light
-PlayEdu v1.6
-mysql 5.7.42
-redis 7.02
-minio
+playedu-redis-1
+playedu-mysql-1
+playedu-minio-1
+playedu-playedu-1
