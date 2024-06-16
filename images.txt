@@ -1,6 +1,6 @@
 #PlayEdu开源培训系统
-playedu-redis-1
-playedu-mysql-1
-playedu-minio-1
-playedu-playedu-1
+playedu/light:1.7
+playedu-mysql
+playedu-redis
+bitnami/minio:latest
 #其它
