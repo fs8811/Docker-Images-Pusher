@@ -1,5 +1,1 @@
 nginx
-playedu/light:1.7
-playedu-mysql-1
-playedu-redis-1
-playedu-minio-1
